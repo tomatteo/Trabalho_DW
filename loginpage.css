@@ -1,0 +1,74 @@
+body  {
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #352736 16.62%, #4B0082 85.61%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+form{
+    text-align: center;
+}
+
+.local{
+    margin-top: 250px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.sen{
+    margin-left: 50px;
+    color:#ecd4ee;
+}
+
+.botao{
+    margin-left: 50px;  
+    text-align: center;
+}
+
+.txtlog{
+    color:#ecd4ee;
+    margin-left: 50px;
+}
+
+.nameusu{
+    color:#ecd4ee;
+    margin-left: 50px;
+}
+
+
+h1{
+    color:#ecd4ee;
+}
+
+
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    width: 150px;
+    height: 100px;
+    padding: 20px;
+    background-color: #25003f;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 25%;
+  }
+  
+  .nome1 + .carg_h {
+    margin-top: 4.8rem;
+  }
